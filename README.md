@@ -1,6 +1,6 @@
 ![python](https://img.shields.io/badge/python-3.0.0-blue)
 # CrunchPy
-This generate a Wordlist
+This is a Wordlist generator
 
 ### Requirements
 `Python 3 or higher`
