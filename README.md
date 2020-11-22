@@ -1,6 +1,6 @@
 ![python](https://img.shields.io/badge/python-3.0.0-blue)
 # CrunchPy
-This is a Wordlist generator
+This is a wordlist generator
 
 ### Requirements
 `Python 3 or higher`
@@ -17,5 +17,5 @@ This is a Wordlist generator
 <> - This is required. | [] - This is optional.
 | Command  | Description |
 | ------------- | ------------- |
-| `-h`  | *You will see the Command list*  |
-| `-create <Min Amount> <Max Amount> <Filename without .txt>`  |  *You can create a Wordlist*  |
+| `-h`  | *You will see the command list*  |
+| `-create <Min amount> <Max amount> <Filename without .txt>`  |  *You can create a wordlist*  |
