@@ -15,7 +15,7 @@ This is a wordlist generator
 
 ## Commands
 <> - This is required. | [] - This is optional.
-| Command  | Description |
-| ------------- | ------------- |
-| `-h`  | *You can see the command list*  |
-| `-create <Min amount> <Max amount> <Filename without .txt>`  |  *You can create a wordlist*  |
+| Command  | Description | Optional Params |
+| ------------- | ------------- | ------------- |
+| `-h`  | *You can see the command list*  | **No Params**  |
+| `-create <Min amount> <Max amount> <Filename without .txt>`  | *You can create a wordlist* | `-chars [Characters]` |
