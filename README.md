@@ -13,6 +13,7 @@ This generate a Wordlist
 `python3 CrunchPy.py -Here the Command`
 
 ## Commands
+<> - This is required. | [] - This is optional.
 | Command  | Description |
 | ------------- | ------------- |
 | `-lm`  | *displays Network Informations about the local Machine*  |
