@@ -1,5 +1,4 @@
 ![python](https://img.shields.io/badge/python-3.0.0-blue)
-![status dev version](https://img.shields.io/badge/status-dev%20version-yellow)
 # CrunchPy
 This generate a Wordlist
 
