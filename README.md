@@ -16,5 +16,5 @@ This generate a Wordlist
 <> - This is required. | [] - This is optional.
 | Command  | Description |
 | ------------- | ------------- |
-| `-lm`  | *displays Network Informations about the local Machine*  |
-| `-pS <ip_adress>[?:<port_start>/<port_end>]`  |  scans all ports in Range (if no port range asigned, it will scann from port `0` up to `49190`)  |
+| `-h`  | *You will see the Command list*  |
+| `-create <Min Amount> <Max Amount> <Filename without .txt>`  |  *You can create a Wordlist*  |
