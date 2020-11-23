@@ -13,6 +13,12 @@ This is a wordlist generator
 ### Usage
 `python3 CrunchPy.py -Here the Command`
 
+### Patterns
+| Pattern  | Description |
+| ------------- | ------------- |
+| `-h`  | *You can see the command list*  |
+| `-create <Min amount> <Max amount> <Filename without .txt>`  | *You can create a wordlist* |
+
 ## Commands
 <> - This is required. | [] - This is optional.
 | Command  | Description | Optional Params |
