@@ -16,8 +16,10 @@ This is a wordlist generator
 ### Patterns
 | Pattern  | Description |
 | ------------- | ------------- |
-| `-h`  | *You can see the command list*  |
-| `-create <Min amount> <Max amount> <Filename without .txt>`  | *You can create a wordlist* |
+| `A`  | *Uppercase pattern*  |
+| `a`  | *Lowercase pattern* |
+| `0`  | *Numbers pattern*  |
+| `.`  | *Symbols pattern* |
 
 ## Commands
 <> - This is required. | [] - This is optional.
