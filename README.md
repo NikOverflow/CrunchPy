@@ -26,4 +26,4 @@ This is a wordlist generator
 | Command  | Description | Optional Params |
 | ------------- | ------------- | ------------- |
 | `-h`  | *You can see the command list*  | **No Params**  |
-| `-create <Min amount> <Max amount> <Filename without .txt>`  | *You can create a wordlist* | `-chars [Characters]` Konnt Noch: `-pattern [Pattern]` |
+| `-create <Min amount> <Max amount> <Filename without .txt>`  | *You can create a wordlist* | `-chars [Characters]` - `-pattern [Pattern]` |
