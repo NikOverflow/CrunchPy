@@ -15,7 +15,7 @@ This is a wordlist generator
 ### Patterns
 | Pattern  | Description |
 | ------------- | ------------- |
-| `A`  | *Uppercase pattern*  |
+| `A`  | *Insert all Uppercase*  |
 | `a`  | *Lowercase pattern* |
 | `0`  | *Numbers pattern*  |
 | `.`  | *Symbols pattern* |
