@@ -8,7 +8,6 @@ This is a wordlist generator
 ### Installation
 1. `git clone https://github.com/LetsPlayNik/CrunchPy.git`
 2. `cd CrunchPy`
-3. `pip install -r Requirements.txt`
 
 ### Usage
 `python3 CrunchPy.py -Here the Command`
