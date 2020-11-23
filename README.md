@@ -15,10 +15,10 @@ This is a wordlist generator
 ### Patterns
 | Pattern  | Description |
 | ------------- | ------------- |
-| `A`  | *Insert all Uppercase*  |
-| `a`  | *Lowercase pattern* |
-| `0`  | *Numbers pattern*  |
-| `.`  | *Symbols pattern* |
+| `A`  | *Will insert uppercase characters*  |
+| `a`  | *Will insert lowercase characters* |
+| `0`  | *Will insert numbers*  |
+| `.`  | *Will insert symbols* |
 
 ## Commands
 <> - This is required. | [] - This is optional.
