@@ -18,4 +18,4 @@ This is a wordlist generator
 | Command  | Description | Optional Params |
 | ------------- | ------------- | ------------- |
 | `-h`  | *You can see the command list*  | **No Params**  |
-| `-create <Min amount> <Max amount> <Filename without .txt>`  | *You can create a wordlist* | `-chars [Characters]` | Konnt Noch: (`-pattern [uppercase | lowercase | numbers | symbols]`) |
+| `-create <Min amount> <Max amount> <Filename without .txt>`  | *You can create a wordlist* | `-chars [Characters]` Konnt Noch: (`-pattern [uppercase, lowercase, numbers, symbols]`) |
