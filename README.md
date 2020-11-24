@@ -25,4 +25,4 @@ This is a wordlist generator
 | Command  | Description | Optional Params |
 | ------------- | ------------- | ------------- |
 | `-h`  | *You can see the command list*  | **No Params**  |
-| `-create <Min length> <Max length> <Filename without .txt>`  | *You can create a wordlist* | `-chars [Characters]` --- `-pattern [Pattern]` |
+| `-create <Min length> <Max length> <Filename without .txt>`  | *You can create a wordlist* | `-chars [Characters]` or `-pattern [Pattern]` |
