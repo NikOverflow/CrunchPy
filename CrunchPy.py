@@ -11,7 +11,7 @@ def createWordlist(min, max, filename, characters = None):
     try:
         int(min)
         int(max)
-        file = open(filename + ".txt","w")
+        file = open(filename,"w")
         if characters != None:
             chars = characters
         else:
@@ -24,7 +24,7 @@ def createWordlist(min, max, filename, characters = None):
         print("Wordlist complete in " + str(datetime.now() - started))
         exit()
     except ValueError:
-        print("Usage: python3 CrunchPy.py -create <Min amount> <Max amount> <Filename without .txt>")
+        print("Usage: python3 CrunchPy.py -create <Min amount> <Max amount> <Filename>")
         exit()
 
 if __name__ == "__main__":
