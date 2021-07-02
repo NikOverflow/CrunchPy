@@ -34,7 +34,7 @@ if __name__ == "__main__":
             i += 1
             print("---Commands---")
             print("python3 CrunchPy.py -h | You can see the command list")
-            print("python3 CrunchPy.py -create <Min length> <Max length> <Filename without .txt> | You can create a wordlist")
+            print("python3 CrunchPy.py -create <Min length> <Max length> <Filename> | You can create a wordlist")
             print("---Commands---")
             exit()
         if args[i] == "-create":
