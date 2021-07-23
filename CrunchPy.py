@@ -6,7 +6,7 @@ args = sys.argv
 args.pop(0)
 i = 0
 
-def createWordlist(min, max, filename, characters = None):
+def create_wordlist(min, max, filename, characters = None):
     started = datetime.now()
     try:
         int(min)
@@ -69,9 +69,9 @@ if __name__ == "__main__":
                                     chars += string.punctuation
                                 else:
                                     chars = string.punctuation
-                    createWordlist(min = args[1], max = args[2], filename = args[3], characters = chars)
+                    create_wordlist(min = args[1], max = args[2], filename = args[3], characters = chars)
                 else:
-                    createWordlist(min = args[1], max = args[2], filename = args[3])
+                    create_wordlist(min = args[1], max = args[2], filename = args[3])
             else:
                 print("Usage: python3 CrunchPy.py -create <Min length> <Max length> <Filename without .txt>")
                 exit()
